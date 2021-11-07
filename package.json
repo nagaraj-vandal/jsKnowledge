@@ -1,0 +1,23 @@
+{
+  "name": "jsknowledge",
+  "version": "1.0.0",
+  "description": "Js Concepts",
+  "main": "inheritance.js",
+  "scripts": {
+    "watch" : "nodemon ./inheritance.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagaraj-vandal/jsKnowledge.git"
+  },
+  "author": "Nagaraj Vandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagaraj-vandal/jsKnowledge/issues"
+  },
+  "homepage": "https://github.com/nagaraj-vandal/jsKnowledge#readme",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

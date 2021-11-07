@@ -1,1 +1,1 @@
-"i love you megu"
+console.log("Hello")
